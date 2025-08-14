@@ -16,6 +16,5 @@ A modern Android News App built with **Kotlin** and **Jetpack Compose**, followi
 - Retrofit for API calls
 - Coroutines for async operations
 
-[Category Screen](app/screenshots/category_screen.png)
-[News Screen](app/screenshots/news_screen.png)
+
 
